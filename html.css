@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+    background: url("background.jpg");
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+}
